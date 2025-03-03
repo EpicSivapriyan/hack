@@ -1,2 +1,4 @@
+system.rotate.down;
+system.rotate.up;
 open.notepad;
-system.type "hi,there";
+system.type hi,there;
