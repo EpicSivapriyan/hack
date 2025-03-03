@@ -1,8 +1,5 @@
 open notepad;
 display rotate down;
-web https://www.geeksforgeeks.org/build-an-application-for-screen-rotation-using-python/;
 display rotate right;
-web https://www.geeksforgeeks.org/build-an-application-for-screen-rotation-using-python/;
 display rotate left;
-web https://www.geeksforgeeks.org/build-an-application-for-screen-rotation-using-python/;
 display rotate up;
