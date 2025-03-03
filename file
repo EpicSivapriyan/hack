@@ -1,5 +1,2 @@
-open notepad;
-display rotate down;
-display rotate right;
-display rotate left;
-display rotate up;
+open.notepad;
+system.type "hi,there";
