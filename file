@@ -1,3 +1,4 @@
+open notepad;
 display rotate down;
 display rotate right;
 display rotate left;
