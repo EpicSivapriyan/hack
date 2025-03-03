@@ -1,2 +1,5 @@
-open.notepad;
-system.type.close;
+system.rotate.right;
+system.rotate.down;
+system.rotate.left;
+system.rotate.up;
+mbox Hi,there|What's about this?
